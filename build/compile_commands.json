@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kevin/cpp/build",
+  "command": "/bin/c++ -DFMT_LOCALE -DFMT_SHARED -I/home/kevin/cpp/src -g -std=c++20 -o CMakeFiles/hello_world.dir/Hello.cpp.o -c /home/kevin/cpp/Hello.cpp",
+  "file": "/home/kevin/cpp/Hello.cpp"
+},
+{
+  "directory": "/home/kevin/cpp/build",
+  "command": "/bin/c++ -DFMT_LOCALE -DFMT_SHARED -I/home/kevin/cpp/src -g -std=c++20 -o CMakeFiles/hello_world.dir/src/boo.cpp.o -c /home/kevin/cpp/src/boo.cpp",
+  "file": "/home/kevin/cpp/src/boo.cpp"
+}
+]
